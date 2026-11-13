@@ -84,7 +84,7 @@ const pixLevels = {
   1: {
     stars: "⭐",
     crime: "PEQUENO CRIME",
-    amount: "R$ 20,00",
+    amount: "R$ 50,00",
     description:
       "Uma infração leve. A polícia ainda não considera você uma ameaça."
   },
@@ -92,7 +92,7 @@ const pixLevels = {
   2: {
     stars: "⭐⭐",
     crime: "CRIME EM ANDAMENTO",
-    amount: "R$ 30,00",
+    amount: "R$ 100,00",
     description:
       "A movimentação foi detectada. Você já entrou no radar."
   },
@@ -100,7 +100,7 @@ const pixLevels = {
   3: {
     stars: "⭐⭐⭐",
     crime: "FUGITIVO PROCURADO",
-    amount: "R$ 40,00",
+    amount: "R$ 150,00",
     description:
       "Agora ficou sério. A polícia já está atrás de você."
   },
@@ -108,7 +108,7 @@ const pixLevels = {
   4: {
     stars: "⭐⭐⭐⭐",
     crime: "ALTA PERICULOSIDADE",
-    amount: "R$ 50,00",
+    amount: "R$ 200,00",
     description:
       "Seu presente causou uma grande movimentação na cidade."
   },
@@ -116,7 +116,7 @@ const pixLevels = {
   5: {
     stars: "⭐⭐⭐⭐⭐",
     crime: "AMEAÇA MÁXIMA",
-    amount: "R$ 60,00",
+    amount: "R$ 250,00",
     description:
       "Você entrou para a lista dos mais procurados."
   },
@@ -124,7 +124,7 @@ const pixLevels = {
   6: {
     stars: "⭐⭐⭐⭐⭐⭐",
     crime: "LENDA DE VICE CITY",
-    amount: "R$ 100,00",
+    amount: "R$ 300,00",
     description:
       "Seu nome será lembrado por toda a cidade."
   }
